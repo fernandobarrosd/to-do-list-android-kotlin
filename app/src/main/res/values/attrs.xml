@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="CustomAlertDialog">
+        <attr name="dialog_title" format="string"/>
+        <attr name="button1_text" format="string"/>
+        <attr name="button2_text" format="string"/>
+        <attr name="firstButtonID" format="reference"/>
+        <attr name="secondButtonID" format="reference"/>
+    </declare-styleable>
+</resources>

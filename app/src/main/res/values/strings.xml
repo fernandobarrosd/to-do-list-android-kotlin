@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="add_text">+</string>
+    <string name="todo_text">TODO</string>
+    <string name="task_name">Task name</string>
+    <string name="task_description">Task description</string>
+    <string name="add_task">Add task</string>
+    <string name="back_to_home">Back to home</string>
+    <string name="create_task_text">Deseja criar a task?</string>
+    <string name="btn_yes_text">Sim</string>
+    <string name="btn_no_text">Não</string>
+    <string name="custom_dialog_default_text">Custom dialog</string>
+    <string name="is_finish_text">Is finish</string>
+    <string name="delete_task">Delete task</string>
+    <string name="update_task">Update task</string>
+    <string name="channel1_name">Channel 1 name</string>
+    <string name="channel1_id">Channel 1</string>
+</resources>
